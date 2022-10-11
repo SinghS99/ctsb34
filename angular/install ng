@@ -80,3 +80,34 @@ readme.md
 change port: 
 	package.json
 		start: "ng serve --port 3000"
+
+
+
+=======================================
+
+$ download and install nodejs
+$ node -v (14 =+ is required)
+$ npm -v
+			
+		$ npm install -g @angular/cli
+		
+			only for virtual machines
+			C:\Users\123\AppData\Roaming\npm
+				add this path to PATH environment variable 
+				C:\Users\123\AppData\Roaming\npm
+
+		$ ng version
+		- Create angular project
+		$ ng new project-name
+		
+		
+-----------------
+Start app: 
+$ npm run start
+
+	localhost:4200
+
+Stop app: ctrl + c
+
+
+
