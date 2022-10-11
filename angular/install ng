@@ -4,14 +4,7 @@
 	NPM				maven
 	package.json == pom.xml
 		dependencies
-		webpack, gulp
-		
-	typescript.json
-		configuration
-	webpack.config.js
-		configuration
-	
-	
+
 	
 
 angular basics -> 2022
@@ -28,8 +21,9 @@ generator -> @angular/cli
 			- download and install nodejs
 			- node -v (14 =+ is required)
 			- npm -v
-		- npm install @angular/cli@12.x -g
+			
 		- npm install -g @angular/cli
+		
 			only for virtual machines
 			C:\Users\123\AppData\Roaming\npm
 				add this path to PATH environment variable 
